@@ -1,10 +1,11 @@
 # DRESS data
 Repository hosting the data used for the DRESS (Deep REinforcement Sentence Simplification) model described in [Sentence Simplification with Deep Reinforcement Learning](http://aclweb.org/anthology/D/D17/D17-1062.pdf).
 
+Download the compressed dataset [here](https://github.com/louismartin/dress-data/raw/master/data-simplification.tar.bz2).
+
 The datasets hosted here are the ones called *wikismall* and *wikilarge* in the paper, that were initially only available on Google Drive.
 Hosting them on this repository is slightly more durable and allows programmatical download (no API on Google Drive).
 Both the compressed dataset and uncompressed datasets are hosted (for faster exploration).
-
 
 Official repository of the author:  
 <https://github.com/XingxingZhang/dress>  
